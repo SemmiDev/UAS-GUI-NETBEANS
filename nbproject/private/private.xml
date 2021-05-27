@@ -2,6 +2,13 @@
 <project-private xmlns="http://www.netbeans.org/ns/project-private/1">
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
-        <group/>
+        <group>
+            <file>file:/home/sammidev/Desktop/UAS-GUI-NETBEANS/src/tugas/utils/Session.java</file>
+            <file>file:/home/sammidev/Desktop/UAS-GUI-NETBEANS/src/tugas/forms/AlbumForm.java</file>
+            <file>file:/home/sammidev/Desktop/UAS-GUI-NETBEANS/src/tugas/utils/ConnectionUtil.java</file>
+            <file>file:/home/sammidev/Desktop/UAS-GUI-NETBEANS/src/tugas/forms/SongForm.java</file>
+            <file>file:/home/sammidev/Desktop/UAS-GUI-NETBEANS/src/tugas/forms/MarketForm.java</file>
+            <file>file:/home/sammidev/Desktop/UAS-GUI-NETBEANS/src/tugas/forms/ArtistForm.java</file>
+        </group>
     </open-files>
 </project-private>
